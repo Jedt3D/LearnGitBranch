@@ -1,1 +1,4 @@
-James 
+James
+Chatchinwut
+Vim is better than Nano.
+Vim is the Best Editor. 
